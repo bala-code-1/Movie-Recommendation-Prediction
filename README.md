@@ -8,7 +8,6 @@ Movie Success Prediction Using Big Data Analysis
 The main objective of this project is to build a machine learning model that predicts the success of a movie based on several factors, such as budget, genre, cast, director, and more. Success can be measured by box office performance or ratings.
 
 My main code is the file called ("Main.code.ipynb")
-my csv file is uptaded as
 
 # Explanation:
 1. Linear Regression: This model provides a basic interpretation of how the features affect the target, but it may not capture non-linear relationships.
